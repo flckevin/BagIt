@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Tile
+  - Belt
+  - Slots
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Tile
+  - Belt
+  - Slots
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: DisplayImage
+    uniqueID: 1759144321
+    locked: 0
+  - name: Slots
+    uniqueID: 2237282543
+    locked: 0
+  - name: Tray
+    uniqueID: 365137557
+    locked: 0
+  - name: Block
+    uniqueID: 3413601031
+    locked: 0
+  - name: LOCK
+    uniqueID: 687236001
+    locked: 0
+  - name: Hand
+    uniqueID: 1064732909
+    locked: 0
